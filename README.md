@@ -16,4 +16,5 @@ BFH/recFUMF2ROskx51tp/2021
 
 # How to Use
 Step 1: Upload the image using the upload button.
+
 Step 2: Click on the predict button.

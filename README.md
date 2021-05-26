@@ -7,13 +7,13 @@ Live Project: https://mohanlal-mammootty-classifier.herokuapp.com/
 
 Code Explanation: https://drive.google.com/file/d/1mjvGOreJ5jVsrOVf0jn0uBU_1cJfadhZ/view?usp=sharing
 
-#Team ID
+# Team ID
 BFH/recFUMF2ROskx51tp/2021
 
-##Team members
+# Team members
 1. Aju Rajiv (https://github.com/ajuarjun)
 2. Bharath Krishna (https://github.com/bharathkrishna11)
 
-#How to Use
+# How to Use
 Step 1: Upload the image using the upload button.
 Step 2: Click on the predict button.
